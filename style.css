@@ -47,7 +47,7 @@ div.Continut
 .ScrisCentruP
 {
     text-align: left;
-    margin-left: 50px;              /* alineat paragraf */
+    margin-left: 5%;              /* alineat paragraf */
 
 }
 
@@ -150,4 +150,24 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+}
+
+.containerSkills{
+  margin-left: 5%;
+  margin-right: 70%;
+
+}
+
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:30%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    height:100%;
+    width:100%;
+    position:absolute;
 }
