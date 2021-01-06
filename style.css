@@ -39,11 +39,6 @@ div.Continut
 }
 
 
-.poze
-{
-    margin-left:150px;
-}
-
 .ScrisCentruP
 {
     text-align: left;
@@ -66,8 +61,8 @@ div.HomeInfo
     margin:100px 0 0 50px;                 /* zona continut(nume) homepage*/
     border-radius: 30px;
     background: rgba(211,25,49,0.8);
-	max-width:450px;
-	width:90%;
+	  max-width:450px;
+	  width:90%;
 }
 
 .HomeTitle
@@ -173,6 +168,23 @@ input[type=submit]:hover {
   margin-right: 30%;
   overflow: hidden;
 }
+
+.containerYouTube{
+  margin-left: 5%;
+  margin-right: 5%;
+  overflow:hidden;
+}
+
+.responsivePhoto{
+  width: 100%;
+  max-width: 1300px;
+  height: auto;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-right: 10%;
+}
+
+
 
 .map-responsive{
     margin-left: 5%;
