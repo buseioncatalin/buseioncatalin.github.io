@@ -208,6 +208,6 @@ input[type=submit]:hover {
 
 .fb-comments, .fb-comments iframe[style]{
   width:100% !important;
-  height: 700px !important;
+  height: 300px !important;
   background: #e6e6e6 !important;
 }
