@@ -98,7 +98,7 @@ div.HomeInfo
 		margin: 50px auto;
 	}
 
-  div.containerFacebook{
+  div.containerFacebookPost{
     margin-left: 1%;
     margin-right: 1%;
   }
@@ -163,9 +163,9 @@ input[type=submit]:hover {
 
 }
 
-.containerFacebook{
-  margin-left: 30%;
-  margin-right: 30%;
+.containerFacebookPost{
+  margin-left: 37%;
+  margin-right: 37%;
   overflow: hidden;
 }
 
@@ -199,4 +199,10 @@ input[type=submit]:hover {
     height:100%;
     width:100%;
     position:absolute;
+}
+
+.fb-comments, .fb-comments iframe[style]{
+  width:100% !important;
+  height: 300px !important;
+  background: #e6e6e6 !important;
 }
