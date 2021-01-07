@@ -175,6 +175,11 @@ input[type=submit]:hover {
   overflow:hidden;
 }
 
+.containerMap{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .responsivePhoto{
   width: 100%;
   max-width: 1300px;
@@ -187,12 +192,12 @@ input[type=submit]:hover {
 
 
 .map-responsive{
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
     overflow:hidden;
     padding-bottom:30%;
     position:relative;
-    height:0;
+    height:480px;
 }
 
 .map-responsive iframe{
