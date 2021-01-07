@@ -107,13 +107,6 @@ div.HomeInfo
     margin-left: 1%;
     margin-right: 1%;
   }
-  div.carousel{
-    margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  }
 }
 
 .carousel-inner img {
@@ -152,7 +145,7 @@ input[type=submit] {
   cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, change color */
+/* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
   background-color: RGB(211, 25, 49);
 }
